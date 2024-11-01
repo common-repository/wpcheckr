@@ -1,0 +1,10 @@
+.wpcheckr-connected-badge {
+    padding: 6px 15px;
+    background-color: #c1dcb2;
+    border-radius: 3px;
+    color: #395828;
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+}
